@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1028846939583-rn2f3fro56fi062nemlut4u2j7u018km.apps.googleusercontent.com</string>
+	<string>1028846939583-cfq0nouv3pag7mr1firl868lecik5o3h.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1028846939583-rn2f3fro56fi062nemlut4u2j7u018km</string>
+	<string>com.googleusercontent.apps.1028846939583-cfq0nouv3pag7mr1firl868lecik5o3h</string>
 	<key>API_KEY</key>
 	<string>AIzaSyCxyLoe23WKhnyserJRyV56vKXcJLxDqe0</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>io.flutter.flutter.app</string>
+	<string>com.example.vimigoTest</string>
 	<key>PROJECT_ID</key>
 	<string>vimigotest</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1028846939583:ios:6662249b1f2d2fe964850a</string>
+	<string>1:1028846939583:ios:dd61a3cb8e10878264850a</string>
 	<key>DATABASE_URL</key>
 	<string>https://vimigotest.firebaseio.com</string>
 </dict>
