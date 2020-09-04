@@ -11,5 +11,6 @@ A Flutter contact application that was created for Vimigo Technical Assessment.
   - timeago: ^2.0.27
   - share: ^0.6.5
   - custom_refresh_indicator: ^0.8.0+1
+  - fluttertoast: ^7.0.4
 
 
