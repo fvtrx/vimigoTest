@@ -27,14 +27,15 @@ abstract class ContactDataManager {
     });
 
     print(listOfContacts.length);
-
-    // var data =
-    //     await contactCollection.find(where.lt("name", "Chan Saw Lin")).toList();
-
-    // listOfContacts = data;
   }
 
-  // static List<VimigoContact> sortContactListBasedOnDate(DateTime checkInDate) {
-  //   var sortedData = new List<VimigoContact>();
+  // static List<VimigoContact> updateList() {
+  //   VimigoContact contact = new VimigoContact();
+  //   contact.contactName = "Ahmad Redzuan";
+  //   contact.phoneNo = "011277901323";
+  //   contact.checkInDate = new DateTime.now();
+
+  //   listOfContacts.add(contact);
+  //   return listOfContacts;
   // }
 }
