@@ -2,7 +2,7 @@
 
 A Flutter contact application that was created for Vimigo Technical Assessment.
 
-## Plug-ins used in the projects:
+## Plug-ins used for the app:
 
   - cupertino_icons: ^0.1.3
   - google_fonts: ^1.1.0
