@@ -1,17 +1,15 @@
-class Contact {
+class VimigoContact {
   // int id;
   String contactName;
   DateTime checkInDate;
   String phoneNo;
 
-  Contact({this.contactName, this.checkInDate, this.phoneNo});
+  VimigoContact({this.contactName, this.checkInDate, this.phoneNo});
 
-  factory Contact.fromJson(Map<String, dynamic> json) {
-    return Contact(
+  factory VimigoContact.fromJson(Map<String, dynamic> json) {
+    return VimigoContact(
         contactName: json['name'] as String,
         checkInDate: json['check_in'] as DateTime,
         phoneNo: json['phone'] as String);
   }
-
-  
 }
